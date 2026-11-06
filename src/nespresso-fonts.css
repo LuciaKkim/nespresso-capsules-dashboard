@@ -1,0 +1,72 @@
+/* Nespresso Lucas — same files as qa/en (Doha multimarket storefront) */
+@font-face {
+  font-family: "nespressoLucas";
+  font-style: normal;
+  font-weight: 200;
+  font-display: swap;
+  src: url("https://www.nespresso.com/qa/en/static/version1793100318/frontend/buynespresso/theme-multimarket/en_US/fonts/nespressolucas-light-webfont.woff2")
+    format("woff2");
+}
+
+@font-face {
+  font-family: "nespressoLucas";
+  font-style: normal;
+  font-weight: 300;
+  font-display: swap;
+  src: url("https://www.nespresso.com/qa/en/static/version1793100318/frontend/buynespresso/theme-multimarket/en_US/fonts/nespressolucas-regular-webfont.woff2")
+    format("woff2");
+}
+
+@font-face {
+  font-family: "nespressoLucas";
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url("https://www.nespresso.com/qa/en/static/version1793100318/frontend/buynespresso/theme-multimarket/en_US/fonts/nespressolucas-med-webfont.woff2")
+    format("woff2");
+}
+
+@font-face {
+  font-family: "nespressoLucas";
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url("https://www.nespresso.com/qa/en/static/version1793100318/frontend/buynespresso/theme-multimarket/en_US/fonts/nespressolucas-semibd-webfont.woff2")
+    format("woff2");
+}
+
+@font-face {
+  font-family: "nespressoLucas";
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url("https://www.nespresso.com/qa/en/static/version1793100318/frontend/buynespresso/theme-multimarket/en_US/fonts/nespressolucas-bold-webfont.woff2")
+    format("woff2");
+}
+
+@font-face {
+  font-family: "nespressoLucas";
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url("https://www.nespresso.com/qa/en/static/version1793100318/frontend/buynespresso/theme-multimarket/en_US/fonts/nespressolucas-xtrabd-webfont.woff2")
+    format("woff2");
+}
+
+@font-face {
+  font-family: "Gustavo";
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url("https://www.nespresso.com/qa/en/static/version1793100318/frontend/buynespresso/theme-multimarket/en_US/fonts/gustavo-classic/Gustavo-Regular.woff2")
+    format("woff2");
+}
+
+@font-face {
+  font-family: "Gustavo";
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url("https://www.nespresso.com/qa/en/static/version1793100318/frontend/buynespresso/theme-multimarket/en_US/fonts/gustavo-classic/Gustavo-Bold.woff2")
+    format("woff2");
+}
